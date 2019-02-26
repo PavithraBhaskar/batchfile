@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 260F-C91E
+
+ Directory of C:\Users\Pavithra Bhaskar\Desktop\git
+
+26-Feb-19  11:04 AM    <DIR>          .
+26-Feb-19  11:04 AM    <DIR>          ..
+26-Feb-19  11:04 AM                 0 first.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  94,732,902,400 bytes free
